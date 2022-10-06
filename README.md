@@ -1,1 +1,1 @@
-# Model-Vehicle-Sales-Analysis-Using-SQL-And-Python
+# Model-Vehicle-Sales-Analysis-Using-SQL
