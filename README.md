@@ -1,4 +1,4 @@
-# Model-Vehicle-Sales-Analysis-Using-SQL-&-Python
+# Model Vehicle Sales Analysis Using SQL & Python
 
 ## Aim of the project
 The goal of this project is to go over the model car sales dataset and analyse it to make some essential decisions related to potential future expansion that can be taken by the company.
